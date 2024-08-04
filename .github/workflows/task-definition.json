@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "demo-deploy",
-            "image": "730335296694.dkr.ecr.ca-central-1.amazonaws.com/demo-deploy",
+            "image": "730335296694.dkr.ecr.ca-central-1.amazonaws.com/demo-deploy:db2cfd0b0932397283d297191a05d329e00a89fa",
             "cpu": 0,
             "portMappings": [
                 {
